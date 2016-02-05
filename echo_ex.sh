@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 __echo_ex_usage() {
   echo "Usage: echo_ex [OPTIONS] [STRING]
   -l|--level LEVEL: (Optional) LEVEL is one of the following strings: info, warn, error. The default value is info.
